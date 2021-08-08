@@ -1,5 +1,5 @@
-# Descripcion de proyectos MATLAB
+# MATLAB Project Description 
 
-En este Repositorio en GitHub, se presentaran los proyectos desarrollados en MATLAB
-asi como tambien practicas y ejercicios realizados. Se enlistan por fechas en las que
-fueron realizadas y un breve titulo del proyecto, ejercicio o practica. 
+In this GitHub Repository, I will be showing up every project developed with
+MATLAB, including exercises and practices. They will be shown up with the year
+that they were created and a small introduction title. 
