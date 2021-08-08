@@ -1,5 +1,5 @@
-# Vision de Video de Pelota en Movimiento
+# Descripcion de proyectos MATLAB
 
-En este GitHub, se presenta el codigo de procesamiento de imagen realizado en MATLAB para
-la deteccion de una pelota que se encuentra en movimiento. El procesamiento fue realizado
-utilizando las librerias de procesamiento de imagen en MATLAB.
+En este Repositorio en GitHub, se presentaran los proyectos desarrollados en MATLAB
+asi como tambien practicas y ejercicios realizados. Se enlistan por fechas en las que
+fueron realizadas y un breve titulo del proyecto, ejercicio o practica. 
